@@ -42,7 +42,14 @@
         "amzn/login-with-amazon-module":"*",
         "amzn/amazon-pay-sdk-php":"*",
         "amzn/amazon-pay-module":"*",
-        "amzn/amazon-pay-and-login-with-amazon-core-module":"*"
+        "amzn/amazon-pay-and-login-with-amazon-core-module":"*",
+        "yotpo/magento2-module-yotpo-reviews":"*",
+        "vertexinc/sdk":"*",
+        "vertexinc/module-tax":"*",
+        "vertexinc/module-request-logging-api":"*",
+        "vertexinc/module-request-logging":"*",
+        "vertexinc/module-address-validation-api":"*",
+        "vertexinc/module-address-validation":"*"
     },
     "autoload": {
         "exclude-from-classmap": [
