@@ -38,6 +38,12 @@
         "mageplaza/module-core": "^1.4",
         "razorpay/magento": "^3.7"
     },
+    "replace": {
+        "amzn/login-with-amazon-module":"*",
+        "amzn/amazon-pay-sdk-php":"*",
+        "amzn/amazon-pay-module":"*",
+        "amzn/amazon-pay-and-login-with-amazon-core-module":"*"
+    },
     "autoload": {
         "exclude-from-classmap": [
             "**/dev/**",
