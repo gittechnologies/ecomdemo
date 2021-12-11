@@ -49,7 +49,12 @@
         "vertexinc/module-request-logging-api":"*",
         "vertexinc/module-request-logging":"*",
         "vertexinc/module-address-validation-api":"*",
-        "vertexinc/module-address-validation":"*"
+        "vertexinc/module-address-validation":"*",
+        "dotmailer/dotmailer-magento2-extension-sms":"*",
+        "dotmailer/dotmailer-magento2-extension-graph-ql":"*",
+        "dotmailer/dotmailer-magento2-extension-chat-graph-ql":"*",
+        "dotmailer/dotmailer-magento2-extension-chat":"*",
+        "dotmailer/dotmailer-magento2-extension":"*"
     },
     "autoload": {
         "exclude-from-classmap": [
