@@ -36,7 +36,8 @@
         "magento/product-community-edition": "2.4.3-p1",
         "magento/sample-data-media": "100.4.*",
         "mageplaza/module-core": "^1.4",
-        "razorpay/magento": "^3.7"
+        "razorpay/magento": "^3.7",
+        "unboundcommerce-public/module-googlepay": "^1.1"
     },
     "replace": {
         "amzn/login-with-amazon-module":"*",
@@ -54,7 +55,9 @@
         "dotmailer/dotmailer-magento2-extension-graph-ql":"*",
         "dotmailer/dotmailer-magento2-extension-chat-graph-ql":"*",
         "dotmailer/dotmailer-magento2-extension-chat":"*",
-        "dotmailer/dotmailer-magento2-extension":"*"
+        "dotmailer/dotmailer-magento2-extension":"*",
+        "magento/module-version":"*",
+        "magento/module-marketplace":"*"
     },
     "autoload": {
         "exclude-from-classmap": [
