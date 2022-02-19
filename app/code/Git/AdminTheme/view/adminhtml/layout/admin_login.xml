@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="admin-login" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+         <title>Git Technologies Admin</title>
+    </head>
+    <body>
+        <referenceBlock name="logo">
+            <arguments>
+                <argument name="logo_image_src" xsi:type="string">
+                   Git_AdminTheme::images/admin_logo.png
+                </argument>
+                <argument name="logo_img_width" xsi:type="number">50</argument>
+                <argument name="logo_img_height" xsi:type="number">50</argument>
+            </arguments>
+        </referenceBlock>
+    </body>
+</page>
